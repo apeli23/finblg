@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://apeli.tech',
   siteRepo: 'https://github.com/apeli23/finblg.git',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'apelibrian@gmail.com',
   github: 'https://github.com/apeli23',
@@ -22,7 +22,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: 'https://cwarcup.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://apeli.tech/', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: 'G-BTTTF25KBR', // e.g. UA-000000-2 or G-XXXXXXX
