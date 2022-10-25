@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '@/data/logo-header.svg'
+import Image from 'next/image'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'
@@ -36,9 +36,9 @@ const LayoutWrapper = ({ children }) => {
     <>
       <header className={classes} ref={ref}>
         <div className="mx-auto flex max-w-3xl items-center justify-between bg-cardBg bg-opacity-5 px-4 sm:px-6 xl:max-w-5xl xl:px-0">
-          <Link href="/" aria-label="Curtis Warcup">
+          <Link href="/" aria-label="Tech Blog">
             <div className="mr-3">
-              <Logo />
+              <Image src="/static/images/logo.png" width={90} height={85} alt="logo" />
             </div>
           </Link>
           <div className="flex items-center text-base leading-5">
