@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/apeli23/finblg.git',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/logo.png',
   email: 'apelibrian@gmail.com',
   github: 'https://github.com/apeli23',
   twitter: 'https://twitter.com/',
