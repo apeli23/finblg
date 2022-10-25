@@ -1,6 +1,6 @@
 const projectsData = [
   {
-    title: 'Ecommerce Web Application',
+    title: 'Ecommerce Website',
     description: `An ecommerce website can give you a worldwide market and brand recognition 
       before you even open a physical store. You get the ability to control every aspect of your customer experience, 
       from branding to shipping and customer service.`,
