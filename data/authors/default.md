@@ -1,6 +1,6 @@
 ---
 name: Apeli Brian
-avatar: /static/images/avatar.jpg
+avatar: /static/images/avatar.png
 email: apelibrian@gmail.com
 linkedin: https://www.linkedin.com/in/apeli-brian-029b67245/
 github: https://github.com/apeli23
