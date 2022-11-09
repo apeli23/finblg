@@ -13,18 +13,67 @@ technical writing and developer relations. The core objective is and has always 
 of efficient web applications that are highly scalable.
 </p>
 
-<div className="flex flex-wrap -mx-2 overflow-hidden xl:-mx-2">
-  <div className="my-1 px-5 w-full overflow-hidden xl:my-1 xl:px-2 xl:w-1/2">
-    ![ME](https://res.cloudinary.com/dlt0f5pvq/image/upload/v1666622546/Screenshot_2022-10-24_at_17.41.45_anh1jd.png)
-  </div>
-  <div className="my-1 px-2 w-full overflow-hidden xl:my-1 xl:px-2 xl:w-1/2">
-    ![Me](https://res.cloudinary.com/dlt0f5pvq/image/upload/v1666622337/Screenshot_2022-10-24_at_17.38.06_ed2n4l.png)
-  </div>
-  <div className="my-1 px-2 w-full overflow-hidden xl:my-1 xl:px-2 xl:w-1/2">
-    ![Nairobi](https://res.cloudinary.com/dlt0f5pvq/image/upload/v1665346137/Screenshot_2022-10-09_at_23.03.27_uoclkz.png)
-  </div>
-  <div className="my-1 px-2 w-full overflow-hidden xl:my-1 xl:px-2 xl:w-1/2">
-    ![Game
-    Knight](https://res.cloudinary.com/dlt0f5pvq/image/upload/v1666620084/Screenshot_2022-10-24_at_17.00.19_fseu9l.png)
-  </div>
-</div>
+# Experience
+
+## `APRIL 2021–Present: Zohari Tech Systems`
+
+#### Position: `Software Contractor`
+
+#### Tasks and Duties
+
+Design and implementation of software programs
+Writing and implementing efficient test driven code
+Working closely with other developers, UX designers, business and systems analysts
+Determining operational practicality.
+Implement and oversee standard IT practices eg service upgrades and enhancements.
+Assist in client implementations taking full responsibility for addressing all connectivity and security requirements.
+Create related documentation of the existing and planned environment
+Maintain existing documentation of the server infrastructures.
+Communicate and cooperate with other IT teams to reach common goals.
+
+#### Achievements
+
+Assisted in design and implementation of various mobile channels(USSD, SMS) to the core ecosystem.
+
+## `February 2022 – JUNE 2022: JIWE IO`
+
+#### Position: `Intern`
+
+#### Tasks and Duties
+
+Design and implementation of software programs
+Communicate and cooperate with other IT teams to reach common goals.
+
+## `APRIL 2021 – JANUARY 2022: Decoded Africa`
+
+#### Position: `Technical writer`
+
+#### Tasks and duties
+
+Independently gather information from subject matter experts to develop, organize, and write software applications’ procedure manuals, technical specifications, and process documentation
+Obtain a deep understanding of web applications to translate complex software information into simple, polished, and engaging content.
+Develop and maintain detailed databases of appropriate reference materials, including research, usability tests, and design specifications
+Evaluate current content and develop innovative approaches for improvement
+
+#### Achievements
+
+Experience with scripting languages including JavaScript, shell, perl, or python
+Experience in API testing by using SOAP UI, Postman and Curls.
+Experience developing and scaling REST APIs
+Track record of managing multiple priorities and competing demands
+Software development experience demonstrating depth of technical understanding within a mobile and Java development
+
+## `JANUARY 2020 – MARCH 2021: Saada Kenya LTD`
+
+#### Position: `Intern, Software development`
+
+#### Tasks and Duties
+
+Assisting in the design and implementation of software programs
+Assisting in identifying areas for modification in existing programs
+Writing and implementing efficient code
+Assisting in the maintenance and upgrade of existing systems
+
+#### Achievements
+
+Assisted in the development of Saada platform that enables our partners to design and deliver questionnaires to their customers via Whatsapp.
