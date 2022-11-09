@@ -1,6 +1,7 @@
 const projectsData = [
   {
-    title: 'Ecommerce Web Application',
+    title: 'Nextjs | Tailwind: Ecommerce Web Application',
+    tags: ['Nextjs'],
     description: `An ecommerce website can give you a worldwide market and brand recognition 
       before you even open a physical store. You get the ability to control every aspect of your customer experience, 
       from branding to shipping and customer service.`,
@@ -8,7 +9,7 @@ const projectsData = [
     href: 'https://nextjsecommerceproject.vercel.app/',
   },
   {
-    title: 'Potfolio Website',
+    title: 'Nextjs: Potfolio Website',
     description: `A portfolio website is a unique way to showcase your work and let others know about yourself. 
       It's like an evergreen platform for your projects, case studies, and information about you. 
       In addition, it's one of the best ways to express your personality, experience, and capabilities.`,
