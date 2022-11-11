@@ -18,7 +18,7 @@ const projectsData = [
   },
   {
     title: 'E-learning Figma Mobile AppMockup',
-    description: `Presenting a figma Mobile AppMockup. A single knowledge base application. 
+    description: `Presenting an e-learning figma Mobile AppMockup. A single knowledge base application. 
     It's about your great chance to store educational materials, be they books, videos, 
     eLearning courses, or tests, in one convenient, all-accessible place.
      Simplified control of the education process. Apps and websites give educators access to detailed statistics.
