@@ -1,5 +1,12 @@
 const projectsData = [
   {
+    title: 'Zohari Tech Systems',
+    description: `Zohari Tech Systems Company offers customer experience and analytics management. 
+    I.e. from Marketing to sales to after sales services within digital communication channels.Check out their website my team worked on.`,
+    imgSrc: '/static/images/zohari.png',
+    href: 'https://zohari.tech/',
+  },
+  {
     title: 'Nextjs | Tailwind: Ecommerce Web Application',
     tags: ['Nextjs'],
     description: `An ecommerce website can give you a worldwide market and brand recognition 
