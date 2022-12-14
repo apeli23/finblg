@@ -24,6 +24,12 @@ const projectsData = [
     href: 'https://potfolio-phi.vercel.app/',
   },
   {
+    title: 'React Quiz App',
+    description: `A simple quiz app created using Reactjs and Typescript`,
+    imgSrc: '/static/images/quizapp.png',
+    href: 'https://quizapp-flame-zeta.vercel.app/',
+  },
+  {
     title: 'E-learning Figma Mobile AppMockup',
     description: `Presenting an e-learning figma Mobile AppMockup. A single knowledge base application. 
     It's about your great chance to store educational materials, be they books, videos, 
