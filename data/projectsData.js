@@ -13,7 +13,7 @@ const projectsData = [
       before you even open a physical store. You get the ability to control every aspect of your customer experience, 
       from branding to shipping and customer service.`,
     imgSrc: '/static/images/ecommerce.png',
-    href: 'https://nextjsecommerceproject.vercel.app/',
+    href: 'https://nexttailwind-16hnxmspc-apelibrian-gmailcom.vercel.app/',
   },
   {
     title: 'Nextjs: Potfolio Website',
