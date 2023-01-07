@@ -1,6 +1,6 @@
 ---
 title: Big O Notation
-date: '2022-12-25'
+date: '2023-01-07'
 tags: ['Python']
 draft: false
 summary: 'Big O Notation Series Part 1: Understand the definition and basic application of one of the most fundamental tools in analyzing the cost of an algorithm in computer science.'
