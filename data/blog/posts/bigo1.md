@@ -1,5 +1,5 @@
 ---
-title: Big O Notation PART 1 - INTRODUCTION
+title: BIG O NOTATION PART I - Introduction
 date: '2023-01-07'
 tags: ['Python']
 draft: false
@@ -9,9 +9,7 @@ images: 'static/images/individualBlogPostImages/bigo.png'
 
 Big O Notation is used to classify the efficiency of algorithms as their input approaches infinity. This means that as the input grows, it measures how drastically the space or time requirements grow with it.
 
-### Example
-
-Suppose a nurse takes 30 mins to treat a patient. This means that as the number of patients increases in line, the time the nurse uses to treat will linearly increase. We can calculate how long the nurse can finish the job based on the number of patients in line.
+Take an example of a nurse who takes 30 mins to treat a patient. This means that as the number of patients increases in line, the time the nurse uses to treat will linearly increase. We can calculate how long the nurse can finish the job based on the number of patients in line.
 
 In Big O terms, the linear pattern can be described as `Big O(n)`(where n is the number of patients).
 The same technique can be used to determine the efficiency of algorithms. We can have an idea of how much a function's time efficiency scales by categorizing the nurse's efficiency.
@@ -74,9 +72,4 @@ To recap what we have just described, to evaluate an algorithm's efficiency, we 
 
 So far, we have covered the basic definition of Big O notation and its linear function concept O(n). You can click the link below to proceed to Part 2 of this article where we will proceed to check out the concept of O(n^2).
 
-<button
-name="button"
-onclick="https://www.apeli.tech/blog/code_challenge/bigo2"
-
-> Part II
-> </button>
+### [Part II](https://www.apeli.tech/blog/posts/bigo2)
