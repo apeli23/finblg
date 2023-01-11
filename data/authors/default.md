@@ -7,7 +7,7 @@ github: https://github.com/apeli23
 ---
 
 <p>
-Apeli Brian is a software contractor with two years of professional work experience gained from
+Apeli Brian is a software contractor with three years of professional work experience gained from
 web application software development. The experience spreads over various roles such as software development,
 technical writing and developer relations. The core objective is and has always been the development
 of efficient web applications that are highly scalable.
