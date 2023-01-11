@@ -21,59 +21,53 @@ of efficient web applications that are highly scalable.
 
 #### Tasks and Duties
 
-Design and implementation of software programs
-Writing and implementing efficient test driven code
-Working closely with other developers, UX designers, business and systems analysts
-Determining operational practicality.
-Implement and oversee standard IT practices eg service upgrades and enhancements.
-Assist in client implementations taking full responsibility for addressing all connectivity and security requirements.
-Create related documentation of the existing and planned environment
-Maintain existing documentation of the server infrastructures.
-Communicate and cooperate with other IT teams to reach common goals.
+• Design and implement UI wireframes based on the company's Flow builder web application's UX
+design.
+• Writing and implementing efficient test-driven front-end code to clear and user-friendly software APIs
+with simple yet focused and well-tested codes that are easy to maintain.
 
 #### Achievements
 
-Assisted in design and implementation of various mobile channels(USSD, SMS) to the core ecosystem.
+• Experienced the basics of API integration through interaction with Safaricom's Daraja API over the 3-week project.
 
-## `February 2022 – JUNE 2022: JIWE IO`
+• Experience with client communication. I was able to work with clients who had unclear pictures of the complexities of the UI layouts hence I was allowed to rework and make changes as both clients' and designers' minds predictably change.
 
-#### Position: `Intern`
+• Over a year of experience in designing and implementing various mobile channels(USSD, SMS) to the core ecosystem.
+
+## `APRIL 2021 – March2022: Zohari Tech Systems`
+
+#### Position: `Software Engineer`
 
 #### Tasks and Duties
 
-Design and implementation of software programs
-Communicate and cooperate with other IT teams to reach common goals.
+• Design and implementation of software programs
+• Writing and implementing efficient test driven code
+• Working closely with other developers, UX designers, business and systems analysts
+• Determining operational practicalityy
 
-## `APRIL 2021 – JANUARY 2022: Decoded Africa`
+#### Achievements
+
+• Experience in designing and implementing various mobile channels(USSD, SMS) to the core ecosystem.
+
+• Repaired and developed react UI pages and components for the company website
+
+Tech Stack: Reactjs, Python, Nodejs, CSS
+
+## `Jan 2021 - Mar 2022 : Decoded for Devs`
 
 #### Position: `Technical writer`
 
 #### Tasks and duties
 
-Independently gather information from subject matter experts to develop, organize, and write software applications’ procedure manuals, technical specifications, and process documentation
-Obtain a deep understanding of web applications to translate complex software information into simple, polished, and engaging content.
-Develop and maintain detailed databases of appropriate reference materials, including research, usability tests, and design specifications
-Evaluate current content and develop innovative approaches for improvement
+- Independently gather information from subject matter experts to develop, organize, and write software applications’ procedure manuals, technical specifications, and process documentation.
+  Includes exploring various coding tools such as React and Nodejs to create reusable components.
+
+- Obtain a deep understanding of web applications to translate complex software information into simple, polished, engaging, and user-friendly content.
+
+- Evaluate current content and develop innovative approaches for improvement.
 
 #### Achievements
 
-Experience with scripting languages including JavaScript, shell, perl, or python
-Experience in API testing by using SOAP UI, Postman and Curls.
-Experience developing and scaling REST APIs
-Track record of managing multiple priorities and competing demands
-Software development experience demonstrating depth of technical understanding within a mobile and Java development
+Developed UI interfaces with javascript frameworks, HTML, and CSS, which improved user satisfaction by 30%. Includes creating web applications using React and Nextjs to increase target audience engagement by 10% and a year of experience in creating technical articles.
 
-## `JANUARY 2020 – MARCH 2021: Saada Kenya LTD`
-
-#### Position: `Intern, Software development`
-
-#### Tasks and Duties
-
-Assisting in the design and implementation of software programs
-Assisting in identifying areas for modification in existing programs
-Writing and implementing efficient code
-Assisting in the maintenance and upgrade of existing systems
-
-#### Achievements
-
-Assisted in the development of Saada platform that enables our partners to design and deliver questionnaires to their customers via Whatsapp.
+Tech Stack: Reactjs, Python, Nodejs, CSS, Django.
