@@ -58,6 +58,8 @@ Tech Stack: Reactjs, Python, Nodejs, CSS
 
 #### Position: `Technical writer`
 
+##### `internship`
+
 #### Tasks and duties
 
 - The main responsibility was to ensure that the software development teams have all the information they need to work efficiently and effectively.
