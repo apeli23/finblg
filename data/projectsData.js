@@ -6,15 +6,15 @@ const projectsData = [
     imgSrc: '/static/images/zohari.png',
     href: 'https://zohari.tech/',
   },
-  // {
-  //   title: 'Nextjs | Tailwind: Ecommerce Web Application',
-  //   tags: ['Nextjs', 'Tailwind', 'Mongodb', 'Paypal'],
-  //   description: `An ecommerce website can give you a worldwide market and brand recognition
-  //     before you even open a physical store. You get the ability to control every aspect of your customer experience,
-  //     from branding to shipping and customer service.`,
-  //   imgSrc: '/static/images/ecommerce.png',
-  //   href: 'https://shop-theta-self.vercel.app/',
-  // },
+  {
+    title: 'Nextjs | Tailwind: Ecommerce Web Application',
+    tags: ['Nextjs', 'Tailwind', 'Mongodb', 'Paypal'],
+    description: `An ecommerce website can give you a worldwide market and brand recognition
+      before you even open a physical store. You get the ability to control every aspect of your customer experience,
+      from branding to shipping and customer service.`,
+    imgSrc: '/static/images/ecommerce.png',
+    href: 'https://shop-three-xi.vercel.app/',
+  },
   {
     title: 'Nextjs: Potfolio Website',
     description: `A portfolio website is a unique way to showcase your work and let others know about yourself. 
