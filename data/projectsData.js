@@ -29,17 +29,6 @@ const projectsData = [
     imgSrc: '/static/images/quizapp.png',
     href: 'https://quizapp-flame-zeta.vercel.app/',
   },
-  {
-    title: 'E-learning Figma Mobile AppMockup',
-    description: `Presenting an e-learning figma Mobile AppMockup. A single knowledge base application. 
-    It's about your great chance to store educational materials, be they books, videos, 
-    eLearning courses, or tests, in one convenient, all-accessible place.
-     Simplified control of the education process. Apps and websites give educators access to detailed statistics.
-
-    `,
-    imgSrc: '/static/images/elearn.png',
-    href: 'https://elearnmockup.vercel.app/',
-  },
 ]
 
 export default projectsData
