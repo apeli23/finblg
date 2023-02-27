@@ -14,12 +14,11 @@ images: 'static/images/individualBlogPostImages/accecibilitycss.png'
 - [Accessibility and Inclusivity in CSS with React: How to Make Your Designs More Inclusive](#accessibility-and-inclusivity-in-css-with-react-how-to-make-your-designs-more-inclusive)
   - [Contents](#contents)
   - [Introduction](#introduction)
-  - [1. Use Semantic HTML ](#1--use-semantic-html-)
-  - [1. Use Aria Landmarks ](#1--use-aria-landmarks-)
+  - [1. Use Semantic HTML ](#1-use-semantic-html-)
+  - [1. Use Aria Landmarks ](#1-use-aria-landmarks-)
   - [3. Use High Contrast Colors ](#3-use-high-contrast-colors-)
   - [4. Use Descriptive Alt Text for Images](#4-use-descriptive-alt-text-for-images)
   - [5. Use Responsive Design](#5-use-responsive-design)
-  - [ Accessibility and Inclusivity in CSS with React: How to Make Your Designs More Inclusive](#-accessibility-and-inclusivity-in-css-with-react-how-to-make-your-designs-more-inclusive)
 
 ## Introduction
 
@@ -104,24 +103,6 @@ function MyComponent() {
   return <div className="small-screen">...</div>;
 }
 
-```
-
-</p>
-
-## <a name="use-descriptive-alt-text-for-images"> Accessibility and Inclusivity in CSS with React: How to Make Your Designs More Inclusive</a>
-
-<p className= "text">
-To test our components with assistive technology, we may utilize React-compatible tools like the React Testing Library. The React Testing Library offers a method for testing the accessibility of our components and simulating user interactions. For instance:
-
-```
-import { render, screen } from "@testing-library/react";
-import MyComponent from "./MyComponent";
-
-test("renders MyComponent with accessibility", () => {
-  render(<MyComponent />);
-  const element = screen.getByRole("button");
-  expect(element).toBeInTheDocument();
-});
 ```
 
 </p>
