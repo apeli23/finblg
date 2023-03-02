@@ -7,8 +7,6 @@ summary: 'Say goodbye to manual video transcription with VidOCR - the open-sourc
 images: 'static/images/individualBlogPostImages/vidocr.png'
 ---
 
-# How to Extract Text(s) from Videos with Javascript.
-
 ## Introduction
 
 Optical Character Recognition (OCR) is a technology that enables computers to read and convert images containing printed text into machine-encoded text. In this article, we'll build a simple optical character recognition app using React, HTML Canvas, and Tesseract.js. The application will allow users to choose a video containing printed text and then capture a frame from that video to use Tesseract's OCR engine to extract the text from the image. The extracted text will appear on the screen for them to view.
@@ -175,11 +173,14 @@ The `chooseVideo` function is called when the user selects a video file. It extr
 
 ## 4. Implement the captureText function.
 
+```
 const captureText = async () => {
-const video = videoRef.current;
-const canvas = await html2canvas(video);
-handleOCR(canvas.toDataURL());
+  const video = videoRef.current;
+  const canvas = await html2canvas(video);
+  handleOCR(canvas.toDataURL());
 };
+```
+
 The `captureText` function is called when the user clicks the "Capture Text" button. It uses the html2canvas library to capture a frame from the video and convert it to a data URL. It then calls the `handleOCR` function with the data URL as an argument.
 
 ## 5. Implement the handleOCR function.
